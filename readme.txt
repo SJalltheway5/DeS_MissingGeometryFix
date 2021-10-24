@@ -1,4 +1,4 @@
-1.00 - 2021-04-10
+1.01 - 2021-10-23
 
 This mod addresses the missing geometry in Demon's Souls when played
 on RPCS3 (https://github.com/RPCS3/rpcs3/issues/4302).
