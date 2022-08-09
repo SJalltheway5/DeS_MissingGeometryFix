@@ -1,3 +1,5 @@
+**NOTE: This mod is obsolete as of RPCS3 version 0.0.23-14001 (https://github.com/RPCS3/rpcs3/pull/12450)**
+
 # Demon's Souls - Missing Geometry Fix (RPCS3)
 
 1.01 - 2021-10-23
